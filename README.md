@@ -14,4 +14,4 @@ Ecliple with Android SDK installed
 
 This project is a copyright product.
 
-## Thanks to ZXing for the Contribution.
+And special thanks to Zxing for developing Bar Code Scanner.
