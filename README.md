@@ -8,7 +8,7 @@ Ecliple with Android SDK installed
 
 ## Authors
 
-* **SMIT N DOSHI** - 
+* **SMIT N DOSHI**
 
 ## License
 
